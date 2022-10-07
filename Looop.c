@@ -9,7 +9,7 @@ int main(){
     }
 
     j=1;
-    while (j<=10){
+    while (j<=15){
         printf("Number : %d\n",j);
         j++;
     }
